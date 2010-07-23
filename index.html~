@@ -7,7 +7,7 @@
 </head>
 
 <body>
-
+<p class=text><a href="/">home</a></p>
 <hr />
 <h1 class="title">glittercutter on GitHub</h1>
 <hr />
