@@ -1,5 +1,5 @@
 body {
-color:#1c1c1c;
+color:#313131;
 background-color:#313131;
 padding-bottom:25px;
 padding-right:80px;
@@ -9,7 +9,7 @@ font-family: "Verdana", sans-serif;
 }
 a:link {color:#a55c5c;}
 a:visited {color:#a57575;}
-a:hover {color:#a57575;}
+a:hover {color:#a58585;}
 a:active {color:#a57575;}
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
