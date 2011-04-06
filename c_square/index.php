@@ -1,18 +1,10 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head>
-	<title>glittercutter - cSquare</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="stylesheet" href="/mystyle.css">
-</head>
-
+<?php include "../header.php"; ?>
 <body>
 
-<p class=text><a href="/">home</a>
-</p>
+<?php include "../menu.php"; ?>
 
-<hr />
 <h1 class="title">cSquare</h1>
 
 <p class=text>A simple point and line game.<br>
@@ -23,22 +15,25 @@ New languages can be added using the files in <tt>'./lang'</tt> as guide.
 
 <p class=subtitle>Download</p>
 
-<p class=text><b>Windows binary</b><br>
-<a href="http://github.com/glittercutter/c_square/download/c_square-win-0.6.zip"
+<p class=text>
+<b>Windows binary</b><br>
+<a href="http://github.com/glittercutter/c_square/c_square-win-0.6.zip"
 target="_blank">c_square-win-0.6.zip</a> - 0.6MB<br>
 Libraries included.
 </p>
 
-<p class=text><b>Linux binary</b><br>
+<p class=text>
+<b>Linux binary</b><br>
 <a href="http://github.com/glittercutter/c_square/download/c_square-linux-0.6.tar.gz"
 target="_blank">c_square-linux-0.6.tar.gz</a> - 59KB<br>
 You will need 32bit versions of the following libraries to run the game:<br>
 SDL, SDL_ttf, SDL_net and SDL_gfx. (Built on Arch Linux)
 </p>
 
-<p class=text><b>Source</b><br>
-<p class=text>You can get the lastest development version on 
-<a href="http://github.com/glittercutter/c_square">GitHub</a>, or with:
+<p class=text>
+<b>Source</b><br>
+You can get the lastest development version on 
+<a href="http://github.com/glittercutter/c_square">github</a>, or with:<br>
 <tt>'git clone git://github.com/glittercutter/c_square.git'</tt>.
 </p>
 
@@ -56,8 +51,7 @@ SDL, SDL_ttf, SDL_net and SDL_gfx. (Built on Arch Linux)
 <img src="screenie-3_thumb.png" alt="screenie3" border="0">
 </a>
 
-<p class=text>Released under the GNU General Public License.
-</p>
+<p class=text>Released under the GNU General Public License.</p>
 
 </body>
 </html>

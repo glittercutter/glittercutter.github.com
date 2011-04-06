@@ -12,7 +12,7 @@
 <h1 class="title">glittercutter on GitHub</h1>
 <hr />
 
-<p class=subtitle>Repository</p>
+<p class=subtitle>Repositories</p>
 
 <p class=text><a href="./c_square/index.html">cSquare</a>
 - A point and line game using the <b>SDL</b> library, coded in <b>C</b>.</p>
